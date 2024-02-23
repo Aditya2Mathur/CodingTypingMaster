@@ -56,8 +56,8 @@ Coding Typing Master is a web application designed to improve your typing speed 
 6. Reset your progress using the Reset Button as needed.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-- [Another Contributor](https://github.com/anotherusername)
+- [Aditya Mathur](https://github.com/Aditya2Mathur)
+- [Aditya Kumar](https://github.com/Aditya2Kumar)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
